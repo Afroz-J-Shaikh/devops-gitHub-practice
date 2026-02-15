@@ -26,4 +26,5 @@
 | `git commit` | make a commit | `git commit -m "added demo.txt"` |
 | `git reset file` | unstrack a file | `git reset demo.txt` |
 | `git status` | check if anything to commit/add | `git status` |
+| `git log` | check commit history | `git log` |
 
