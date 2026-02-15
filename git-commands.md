@@ -27,4 +27,5 @@
 | `git reset file` | unstrack a file | `git reset demo.txt` |
 | `git status` | check if anything to commit/add | `git status` |
 | `git log` | check commit history | `git log` |
+| `git revert commit-id` | creates new commit to undoes the changes made by given commit | `git revert 4ae73` |
 
