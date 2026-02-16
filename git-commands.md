@@ -29,4 +29,8 @@
 | `git log` | check commit history | `git log` |
 | `git revert commit-id` | creates new commit that undoes changes made by given commit | `git revert 4ae73` |
 | `git reset commit-id` | reset head back till given commit id | `git reset 4ae73` |
+| `git branch` | list all branches | `git branch` |
+| `git switch <branch>` | switch branches | `git switch feature-1` |
+| `git checkout -b <branch>` | create and switch to a branch | `git checkout -b feature-2` |
+| `git branch -D <branch>` | delete a branch | `git branch -D feature-2` |
 
