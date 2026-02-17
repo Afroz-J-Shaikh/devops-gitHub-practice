@@ -33,4 +33,8 @@
 | `git switch <branch>` | switch branches | `git switch feature-1` |
 | `git checkout -b <branch>` | create and switch to a branch | `git checkout -b feature-2` |
 | `git branch -D <branch>` | delete a branch | `git branch -D feature-2` |
+| `git rebase <branch>` | creates a linear history for current branch | `git rebase master` |
+| `git log --oneline --graph --all` | shows history of all branches in graph | `git log --oneline --graph --all` |
+| `git branch -D <branch>` | delete a branch | `git branch -D feature-2` |
+
 
