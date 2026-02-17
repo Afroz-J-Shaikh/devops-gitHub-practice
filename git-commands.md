@@ -35,6 +35,11 @@
 | `git branch -D <branch>` | delete a branch | `git branch -D feature-2` |
 | `git rebase <branch>` | creates a linear history for current branch | `git rebase master` |
 | `git log --oneline --graph --all` | shows history of all branches in graph | `git log --oneline --graph --all` |
-| `git branch -D <branch>` | delete a branch | `git branch -D feature-2` |
+| `git stash` | stash your current changes and switch to another branch | `git stash` |
+| `git cherry-pick <commit-id>` | pick and apply one commit from multiple commits to another branch | `git cherry-pick 4ae73` |
+| `git merge <branch> --squash` | combine multiple commits to one and merge | `git merge feature-1 --squash` |
+| `git stash pop` | get changes to working directory and deletes stash | `git stash` |
+| `git stash apply` | get changes to working directory also keeps stash | `git stash` |
+| `git stash` | stash your current changes and switch to another branch | `git stash` |
 
 
