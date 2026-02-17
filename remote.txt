@@ -4,3 +4,6 @@ Making changes from main
 Let's try stash
 hotfix hi
 adding to test reset- 1
+[feature-hotfix 9c2f3b1] 1st commit for reset
+ 1 file changed, 1 insertion(+)
+adding to test reset- 2
