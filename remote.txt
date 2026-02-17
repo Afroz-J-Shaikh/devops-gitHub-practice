@@ -3,12 +3,6 @@ I am a DevOps engineer.
 Making changes from main
 Let's try stash
 hotfix hi
-adding to test reset- 1
-[feature-hotfix 9c2f3b1] 1st commit for reset
- 1 file changed, 1 insertion(+)
-adding to test reset- 2
-[feature-hotfix aef1c55] 2nd commit for reset
- 1 file changed, 3 insertions(+)
-adding to test reset- 3
-[feature-hotfix f37a1f7] 3rd commit for reset
- 1 file changed, 3 insertions(+)
+adding to test reset- 1 hi
+adding to test reset- 2 Afroz
+adding to test reset- 3 DevOps
