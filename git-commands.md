@@ -40,6 +40,18 @@
 | `git merge <branch> --squash` | combine multiple commits to one and merge | `git merge feature-1 --squash` |
 | `git stash pop` | get changes to working directory and deletes stash | `git stash` |
 | `git stash apply` | get changes to working directory also keeps stash | `git stash` |
-| `git stash` | stash your current changes and switch to another branch | `git stash` |
+| `gh auth login` | login to github from cli | `gh auth login` |
+| `gh auth status` | to check login status | `gh auth status` |
+| `gh repo create` | creating repository | `gh repo create my-repo --public --source=. --remote=origin --push` |
+| `gh repo clone username/repository` | cloning repository | `gh repo clone Afroz-J-Shaikh/90DaysOfDevOps ` |
+| `gh repo list` | list all reops  | `gh repo list` |
+| `gh repo delete <repo name>` | deletes a repository | `gh repo delete demo-repo` |
+| `gh issue create` | create an issue | `gh issue create --title "Bug in login" --body "Login fails on invalid token"` |
+| `gh pr create ` | create a pull request | `gh pr create --base main --head feature-branch --title "Add login feature" --body "Implemented login logic"  ` |
+| `gh pr list` | list active pull requests | `gh pr list` |
+| `gh pr merge <pr num>` | merge oull request | `gh pr merge 5` |
+| `gh pr view <pr num>` | view a pull request | `gh pr view 12` |
+| `gh pr review <pr num> --option` | approve/request change/comment | `gh pr review 12 --approve` |
+
 
 
