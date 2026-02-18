@@ -1,9 +1,0 @@
-Hi, This is from github.
-I am a DevOps engineer.
-Making changes from main
-Let's try stash
-hotfix hi
-adding to test reset- 1 hi
-adding to test reset- 2 Afroz
-adding to test reset- 3 DevOps
-added again
